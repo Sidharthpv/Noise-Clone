@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.navicons{
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    
+}
+
+.col-1 h6{
+    background-color: black;
+}
+
+.col-1 h6:hover{
+    border-bottom: 1px solid white;
+}
+
+.card-title{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+.card-text{
+    color: rgb(139, 137, 137);
+}
+
+.money{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.oldmoney{
+    text-decoration: line-through;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+video{
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+.overlay{
+    position: absolute;
+    top: 270%;
+    left: 40px;
+}
+
+.inner{
+    color: white;
+    
+}
+
+.inner h4{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.inner h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+
+table{
+   
+    width: 100%;
+    
+}
+
+table tr td{
+    border: 1px solid rgba(92, 89, 89, 0.726);
+}
+
+
+.overlay1{
+    position: absolute;
+    top: 953%;
+    left: 40px;
+}
+
+.footerlogo{
+    margin-left: 200px;
+}
+
+.footerlinks{
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+.footerlinks li a{
+    color: rgb(131, 128, 128);
+    font-size: 13px;
+    
+}
+
+.footerlinks li{
+    margin-top: 7px;
+}
+
+.footerlinks2{
+    margin-left: 50px;
+}
+
+.footerlinks2  a{
+    color: rgb(131, 128, 128);
+    font-size: 13px;
+}
+
+.footerlinks li{
+    margin-top: 7px;
+}
+
+
